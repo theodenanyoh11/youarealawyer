@@ -5,7 +5,7 @@ import Logo from "./logo"
 import './section.css'
 
 const Section = ({ siteTitle }) => (
-    <div className="Section">
+    <div className="Sectiongi">
        
     </div>
    )
