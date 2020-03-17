@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -97,3 +98,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# youarealawyer
+This the project for the You are a Lawyer podcast built with React using Gatsby
+>>>>>>> ac1d1ecda0548d7fe5c0e18fa6e6d15623c27e15
+# yaalwebsite
